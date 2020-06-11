@@ -1,7 +1,7 @@
 
 # README Generator,
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<Node>-<Test>-<COLOR>.svg)](https://shields.io/)
 
 # Table of Contents
 - [Description](#description)
@@ -13,25 +13,23 @@
 - [Questions](#questions)
 
 # Description
-# Node.js App
+## Introduction to Node.js
 
 # Installation
-```
-Inquirer
-```
+## inquirer
 
 # Usage
-# Creating a simple README
+## Creating a Simple ReadMe.md
 
 # Licenses
-# None
+## None
 
 # Contribution
-# Github
+## Github
 
 # Tests 
-# None
+## None
 
 # Questions
-# jusroger@gmail.com
+## jusroger@gmail.com
 
